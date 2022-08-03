@@ -6,4 +6,5 @@ I am an Urban & Regional Planning Student, a Python learner, as well as a Machin
 
 Find me elsewhere 🌎:
 
-[Twitter](https://twitter.com/bigsiama)
+<img src="{https://twitter.com/bigsiama}"/>
+
