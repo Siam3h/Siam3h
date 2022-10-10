@@ -1,2 +1,1 @@
-I know a thing or two about computers.
-I love to experiment with C#/Java/Js/Python.
+I know a thing or two about computers && A Web Developer based in Nairobi,Kenya.
