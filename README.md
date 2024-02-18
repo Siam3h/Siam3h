@@ -1,1 +1,1 @@
-I know a thing or two about computers && A Web Developer based in Nairobi,Kenya.
+Django, I know a thing or two about computers.
